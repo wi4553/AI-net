@@ -11,3 +11,4 @@ W teori względności liczy się wymiary i 4D wymiary aby rozwiązać tajenice p
 Wykorzystuje się do liczenia wzory matematyki kwantowej. 
 Liczy się po tem wzór EC2. I to jest sekret AI matriksa i magi jej badania.  
 Z pamięcią SD lub nand.
+Tak można zrobić projek Awatar. 
