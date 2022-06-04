@@ -4,3 +4,4 @@ AI może modelować grafikę komputerowo ze skanu BCI i wzroku, skanu obrazu 2D,
 Z AI net można pobierać Dane lub je generować każdy rodzaj. 
 Uczenie maszynowe AI można wykorzystać do pisania książek na tablecie lub komputerze z procesorem kwantowym i AI powstanie z tego ink book książki na każdy temat. Zadajesz pytanie wyszukiwarce z automatu AI generuje książki PDF. 
 Można wygenerować każdy plik, program, aplikację czy stronę WWW bez pobierania z internetu będzie to taki system operacyjny co pisze wszystko na każdy temat a z pisania tworzy przedmiot fizyczny z druku kwantowego lub może go utylizować.  
+Z tego powstanie internet rzeczy i inżynieria internetu rzeczy lub uniwersalny generator danych i przedmiotów coś lepszego od asytentów głosowych lepsze od biblioteki.  
