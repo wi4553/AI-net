@@ -15,3 +15,4 @@ Tak można zrobić projek Awatar.
 Wyjaśnienie czym jest kreacja, psychokineza i super moce, magia harrgo pottera, polimorfizm, wolna energia itp. 
 Fizyka większej prędkości światła i wolnej energii, nanotechnologi.  
 AI-net można wygenerować skryptem w Python AI uczenie maszynowe.  
+Czego nie ma w internecie AI uczenie maszynowe stwoży dane. 
