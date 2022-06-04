@@ -6,3 +6,4 @@ Uczenie maszynowe AI można wykorzystać do pisania książek na tablecie lub ko
 Można wygenerować każdy plik, program, aplikację czy stronę WWW bez pobierania z internetu będzie to taki system operacyjny co pisze wszystko na każdy temat a z pisania tworzy przedmiot fizyczny z druku kwantowego lub może go utylizować.  
 Z tego powstanie internet rzeczy i inżynieria internetu rzeczy lub uniwersalny generator danych i przedmiotów coś lepszego od asytentów głosowych lepsze od biblioteki.  
 Powstanie uniwersytet AI lub uniwersalny AI uczenie maszynowe, AI nauczyciel z każdej dzidziny życia i wiedzy z możliwością Czat bota.  
+Można stworzyć z tego chronografię AI do jasnowidzenia znając teorię względności i wzór matematyczny kwantowy na liczenie 4D czyli liczenie wymiarów aby generować Dane z AI.   
