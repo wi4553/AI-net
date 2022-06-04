@@ -9,3 +9,4 @@ Powstanie uniwersytet AI lub uniwersalny AI uczenie maszynowe, AI nauczyciel z k
 Można stworzyć z tego chronografię AI do jasnowidzenia znając teorię względności i wzór matematyczny kwantowy na liczenie 4D czyli liczenie wymiarów aby generować Dane z AI.   
 W teori względności liczy się wymiary i 4D wymiary aby rozwiązać tajenice psychokinezy i tego co nie znane jest. 
 Wykorzystuje się do liczenia wzory matematyki kwantowej. 
+Liczy się po tem wzór EC2. I to jest sekret AI matriksa i magi jej badania.  
