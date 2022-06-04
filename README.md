@@ -12,4 +12,5 @@ Wykorzystuje się do liczenia wzory matematyki kwantowej.
 Liczy się po tem wzór EC2. I to jest sekret AI matriksa i magi jej badania.  
 Z pamięcią SD lub nand.
 Tak można zrobić projek Awatar. 
-Wyjaśnienie czym jest kreacja, psychokineza i super moce, magia, polimorfizm, wolna energia itp. 
+Wyjaśnienie czym jest kreacja, psychokineza i super moce, magia harrgo pottera, polimorfizm, wolna energia itp. 
+Fizyka większej prędkości światła i wolnej energii, nanotechnologi.  
