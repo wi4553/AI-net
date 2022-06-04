@@ -7,3 +7,4 @@ Można wygenerować każdy plik, program, aplikację czy stronę WWW bez pobiera
 Z tego powstanie internet rzeczy i inżynieria internetu rzeczy lub uniwersalny generator danych i przedmiotów coś lepszego od asytentów głosowych lepsze od biblioteki.  
 Powstanie uniwersytet AI lub uniwersalny AI uczenie maszynowe, AI nauczyciel z każdej dzidziny życia i wiedzy z możliwością Czat bota.  
 Można stworzyć z tego chronografię AI do jasnowidzenia znając teorię względności i wzór matematyczny kwantowy na liczenie 4D czyli liczenie wymiarów aby generować Dane z AI.   
+W teori względności liczy się wymiary i 4D wymiary aby rozwiązać tajenice psychokinezy i tego co nie znane jest. 
