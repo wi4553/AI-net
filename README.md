@@ -21,3 +21,4 @@ Uniwersalna AI z psychokinezą.
 Do googli VR jak oglądanie kosmosu.  
 Generowanie kodów programów. 
 Generowanie kodu na laptopie 16 24 64 GB ram lub z kodu innych programów z wiersza poleceń.   
+Można użyć AI z uczeniem maszynowym do generowania tego kodu pisanie ręczne zajmie czas.  
