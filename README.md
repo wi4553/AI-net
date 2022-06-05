@@ -31,3 +31,4 @@ W bibli jest na 1 stronie 1000 GB danych razy 1973 strony do dać osiągnięcia 
 Gry liczbowe miały wytypować tłumacza nie być zabawą tłumacza kodu biblii. A to spisuje na pdf bo szkoda czasu na Lotto i gadanie do publiczności wole spisać na kartkę. 
 Wiedzę wystarczy spisać w PDF różne książki. 
 Bezpieczna wiedza a kodu biblii na 30 lub 100 stron. 
+Trzeba wybrać co jest bezpieczne uczeniem maszynowym lub manualnie. 
