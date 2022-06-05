@@ -24,3 +24,4 @@ Generowanie kodu na laptopie 16 24 64 GB ram lub z kodu innych programów z wier
 Można użyć AI z uczeniem maszynowym do generowania tego kodu pisanie ręczne zajmie czas.  
 AI-net to internet uczenia maszynowego offline jeśli czegoś nie ma w internecie może AI to stworzyć. 
 Wystarczy spytać wuszukiwarkę AI-net. 
+Kod można wygenerować pakietem CUDA i AI uczeniem maszynowym z wiersza poleceń. AI myśli na zasadzie generowania programów a hipisi karzą wam nadal pisać ręcznie bo oszczędzali na pamięci i mocy obliczeniowej komputerów dziś są one szybkie laptop z 64 GB ram ma 512 kubitów 512 bit. Klasyczne komputery mają do 1GB ram. 
