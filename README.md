@@ -27,3 +27,4 @@ Wystarczy spytać wuszukiwarkę AI-net.
 Kod można wygenerować pakietem CUDA i AI uczeniem maszynowym z wiersza poleceń. AI myśli na zasadzie generowania programów a hipisi karzą wam nadal pisać ręcznie bo oszczędzali na pamięci i mocy obliczeniowej komputerów dziś są one szybkie laptop z 64 GB ram ma 512 kubitów 512 bit. Klasyczne komputery mają do 1GB ram. 
 AI-net jest podobny do chromcast.
 Do liczenia kodu biblii AI potrzebuje do 64GB ram mniej będzie wolniej odczytywać.  
+W bibli jest na 1 stronie 1000 GB danych razy 1973 strony do dać osiągnięcia roku 2050 to jest stron 2050 2050 TB danych cała wiedza kosmosu.  
