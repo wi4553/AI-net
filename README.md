@@ -30,3 +30,4 @@ Do liczenia kodu biblii AI potrzebuje do 64GB ram mniej będzie wolniej odczytyw
 W bibli jest na 1 stronie 1000 GB danych razy 1973 strony do dać osiągnięcia roku 2050 to jest stron 2050 2050 TB danych cała wiedza kosmosu.  
 Gry liczbowe miały wytypować tłumacza nie być zabawą tłumacza kodu biblii. A to spisuje na pdf bo szkoda czasu na Lotto i gadanie do publiczności wole spisać na kartkę. 
 Wiedzę wystarczy spisać w PDF różne książki. 
+Bezpieczna wiedza a kodu biblii na 30 lub 100 stron. 
