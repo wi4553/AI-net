@@ -33,3 +33,4 @@ Wiedzę wystarczy spisać w PDF różne książki.
 Bezpieczna wiedza a kodu biblii na 30 lub 100 stron. 
 Trzeba wybrać co jest bezpieczne uczeniem maszynowym lub manualnie. 
 Z AI netu można pobierać dane czy tworzyć żywność lub przedmioty. 
+Kod można wygenerować w pliku XML. 
