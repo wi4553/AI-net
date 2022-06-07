@@ -40,4 +40,4 @@ AI służy do zdobywania i generowania Wiedzy jak i produkcji przedmiotów z syt
 Tak można wygenerować systemy operacyjne, różne AI i auto pilota automatycznie. 
 Tam jeszcze jest napęd. A hipisi to cury i synowie głupoty. 
 Możecie porzerabiać trochę na gorsze tak jak wy to byście robili. 
-Głupianie gadają że górnictwo i sport to męskość aby imponować kobietą i brakiem rozumu czy serca. Głupia osoba jest zamknięta w sobie i kupuje głupotę. Górnicy komuniści od etatyzmu to psy i zwieżęta chcą służyć są upośledzeni umysłowo.  
+Głupianie gadają że górnictwo i sport to męskość aby imponować kobietą i brakiem rozumu czy serca. Głupia osoba jest zamknięta w sobie i kupuje głupotę. Górnicy komuniści od etatyzmu to psy i zwieżęta chcą służyć są upośledzeni umysłowo. Solidarność to upośledzeni umysłowo idioci bez przyszłości małe dzieci sportu. 
