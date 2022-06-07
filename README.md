@@ -37,3 +37,4 @@ Kod można wygenerować w pliku XML.
 Można wykuwać przedmioty wirtualnie a potem drukować czy modelować 3D.
 Drukarka kwanowa i utylizator kwantowy działa na fale Wi-Fi.
 AI służy do zdobywania i generowania Wiedzy jak i produkcji przedmiotów z sytezy AI cyfrowej. 
+Tak można wygenerować systemy operacyjne, różne AI i auto pilota automatycznie. 
