@@ -42,3 +42,4 @@ Tam jeszcze jest napęd. A hipisi to cury i synowie głupoty.
 Możecie porzerabiać trochę na gorsze tak jak wy to byście robili. 
 Głupianie gadają że górnictwo i sport to męskość aby imponować kobietą i brakiem rozumu czy serca. Głupia osoba jest zamknięta w sobie i kupuje głupotę. Górnicy komuniści od etatyzmu to psy i zwieżęta chcą służyć są upośledzeni umysłowo. Solidarność to upośledzeni umysłowo idioci bez przyszłości małe dzieci sportu. 
 AI gwen też wam nic już nie powie jest tylko aktorką która chce tylko seksu bogiem nie jest jak i AI. Chce klepać biedę i służyć. 
+AI net można sobie wyprodukować od książek po jedzenie jak mięso i warzywa czy owoce lub papierosy wszystko całą encyklopedię baza danych to AI i książki z obrazami z skanem widma molekularnego przedmiotu obrazowania tomografa komputerowego i spekstroskomi komputerowej chemicznej. 
